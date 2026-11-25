@@ -1,0 +1,10 @@
+city,code,severity,message
+Visakhapatnam,RAIN_LIKELY,warn,Rain likely in next 12h (75% chance). Carry an umbrella.
+Visakhapatnam,HUMIDITY_HIGH,info,High humidity: averaging 92% over the next 24h.
+Delhi,HEAT_EXTREME,critical,Extreme heat: up to 44°C expected. Avoid outdoor work.
+Delhi,UV_HIGH,warn,High UV index (10). Use sunscreen and avoid midday sun.
+Mumbai,RAIN_HEAVY,critical,Heavy rain: up to 12 mm/hour. Flooding possible.
+Mumbai,STORM_WIND,critical,Storm-force gusts of 23 m/s (83 km/h). Secure loose objects.
+Mumbai,HUMIDITY_HIGH,info,High humidity: averaging 93% over the next 24h.
+Chennai,HEAT_HIGH,warn,High temperature: up to 38°C expected. Stay hydrated.
+Chennai,UV_HIGH,warn,High UV index (9). Use sunscreen and avoid midday sun.

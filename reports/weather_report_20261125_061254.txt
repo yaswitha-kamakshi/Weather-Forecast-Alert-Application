@@ -1,0 +1,46 @@
+WEATHER FORECAST & ALERT REPORT
+Generated: 2026-11-25 06:13:05
+============================================================
+
+VISAKHAPATNAM  (source: simulation)
+------------------------------------------------------------
+Now: 26.2°C, Monsoon showers, humidity 92%, wind 5.0 m/s
+Next 24h: temp 24°C to 29°C, avg humidity 93%, max gust 13.0 m/s, rain 45.0 mm
+Alerts:
+  [WARN] Rain likely in next 12h (75% chance). Carry an umbrella.
+  [INFO] High humidity: averaging 93% over the next 24h.
+
+DELHI  (source: simulation)
+------------------------------------------------------------
+Now: 34.5°C, Heat wave, clear sky, humidity 32%, wind 4.0 m/s
+Next 24h: temp 33°C to 43°C, avg humidity 28%, max gust 5.2 m/s, rain 0.0 mm
+Alerts:
+  [CRITICAL] Extreme heat: up to 44°C expected. Avoid outdoor work.
+  [WARN] High UV index (10). Use sunscreen and avoid midday sun.
+
+MUMBAI  (source: simulation)
+------------------------------------------------------------
+Now: 25.9°C, Thunderstorm, humidity 94%, wind 9.0 m/s
+Next 24h: temp 25°C to 27°C, avg humidity 94%, max gust 23.0 m/s, rain 144.0 mm
+Alerts:
+  [CRITICAL] Heavy rain: up to 12 mm/hour. Flooding possible.
+  [CRITICAL] Storm-force gusts of 23 m/s (83 km/h). Secure loose objects.
+  [INFO] High humidity: averaging 94% over the next 24h.
+
+BENGALURU  (source: simulation)
+------------------------------------------------------------
+Now: 22.9°C, Pleasant, partly cloudy, humidity 64%, wind 3.0 m/s
+Next 24h: temp 22°C to 28°C, avg humidity 60%, max gust 3.9 m/s, rain 0.0 mm
+Alerts:
+  None. Conditions are normal.
+
+CHENNAI  (source: simulation)
+------------------------------------------------------------
+Now: 30.2°C, Hot and humid, humidity 86%, wind 6.0 m/s
+Next 24h: temp 29°C to 37°C, avg humidity 82%, max gust 7.5 m/s, rain 0.0 mm
+Alerts:
+  [WARN] High temperature: up to 38°C expected. Stay hydrated.
+  [WARN] High UV index (9). Use sunscreen and avoid midday sun.
+
+============================================================
+Thresholds used: heat_warn_c=35.0, heat_critical_c=40.0, rain_prob_pct=60.0, heavy_rain_mm_per_h=10.0, humidity_pct=85.0, wind_warn_ms=15.0, storm_wind_ms=20.0, uv_index=8.0

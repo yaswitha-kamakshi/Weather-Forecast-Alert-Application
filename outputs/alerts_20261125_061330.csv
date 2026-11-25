@@ -1,0 +1,4 @@
+city,code,severity,message
+Mumbai,RAIN_HEAVY,critical,Heavy rain: up to 12 mm/hour. Flooding possible.
+Mumbai,STORM_WIND,critical,Storm-force gusts of 23 m/s (83 km/h). Secure loose objects.
+Mumbai,HUMIDITY_HIGH,info,High humidity: averaging 94% over the next 24h.

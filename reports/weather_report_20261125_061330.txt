@@ -1,0 +1,15 @@
+WEATHER FORECAST & ALERT REPORT
+Generated: 2026-11-25 06:13:33
+============================================================
+
+MUMBAI  (source: simulation)
+------------------------------------------------------------
+Now: 25.9°C, Thunderstorm, humidity 94%, wind 9.0 m/s
+Next 24h: temp 25°C to 27°C, avg humidity 94%, max gust 23.0 m/s, rain 144.0 mm
+Alerts:
+  [CRITICAL] Heavy rain: up to 12 mm/hour. Flooding possible.
+  [CRITICAL] Storm-force gusts of 23 m/s (83 km/h). Secure loose objects.
+  [INFO] High humidity: averaging 94% over the next 24h.
+
+============================================================
+Thresholds used: heat_warn_c=35.0, heat_critical_c=40.0, rain_prob_pct=60.0, heavy_rain_mm_per_h=10.0, humidity_pct=85.0, wind_warn_ms=15.0, storm_wind_ms=20.0, uv_index=8.0

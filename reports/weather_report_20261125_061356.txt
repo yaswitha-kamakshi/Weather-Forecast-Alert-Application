@@ -1,0 +1,13 @@
+WEATHER FORECAST & ALERT REPORT
+Generated: 2026-11-25 06:13:58
+============================================================
+
+DELHI  (source: open-meteo)
+------------------------------------------------------------
+Now: 13.0°C, Mainly clear, humidity 82%, wind 1.0 m/s
+Next 24h: temp 13°C to 24°C, avg humidity 64%, max gust 3.7 m/s, rain 0.0 mm
+Alerts:
+  None. Conditions are normal.
+
+============================================================
+Thresholds used: heat_warn_c=35.0, heat_critical_c=40.0, rain_prob_pct=60.0, heavy_rain_mm_per_h=10.0, humidity_pct=85.0, wind_warn_ms=15.0, storm_wind_ms=20.0, uv_index=8.0
